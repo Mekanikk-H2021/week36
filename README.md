@@ -12,4 +12,4 @@
 
 ![nettokraft](bilder/nettokraft.png "nettokraft")
 
-![luftmotstand](bilder/luftmotstand.png "luftmotstand")"# week36" 
+![luftmotstand](bilder/luftmotstand.png "luftmotstand")
